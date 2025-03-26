@@ -32,7 +32,7 @@ A heatmap visualizes the density of testing across different locations.
 
 🛠 Technologies Used
 
-Python 🐍
-Pandas, NumPy
-Matplotlib, Seaborn
-Jupyter Notebook
+- Python 🐍
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Jupyter Notebook
